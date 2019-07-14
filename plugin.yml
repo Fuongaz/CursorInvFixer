@@ -1,0 +1,8 @@
+name: CursorInvFixer
+main: JackMD\CursorInvFixer\CursorInvFixer
+api: 3.9.0
+description: A simple plugin to fix cursor inventory not being cleared client side due to bugs introduced in MC 1.12
+version: 1.0.0
+author: JackMD
+authors:
+- Encritary
